@@ -1,16 +1,20 @@
 # A (very) simple file compressor
 
-Hi, this is an example of a file compressor, I wrote for school, a while ago.
+Hi, this is an example of a file compressor I wrote for school... a while ago.
 
-It uses the Huffman algorithm.
+It uses the Huffman algorithm, with the tree.
 
 I don't have time to maintaint the project, but the code might be useful for someone.
+
+The comments are in French, and code has doxygen-compatible comments.
 
 
 
 
 # How to use ?
 
-Well, compile and run:
+Well, compile and run tests:
+
 	chmod +x tester.sh
 	./tester.sh
+
